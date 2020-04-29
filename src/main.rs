@@ -1,3 +1,6 @@
+#![feature(test)]
+extern crate test;
+
 use crate::tcp::send_tcp_packets;
 use ipnet::IpNet;
 use std::net::{IpAddr, Ipv4Addr};

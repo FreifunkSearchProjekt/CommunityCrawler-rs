@@ -17,6 +17,8 @@ pnet_macros_support = "0.25.0"
 dns-lookup = "1.0.2"
 reqwest = { version = "0.10" }
 async-recursion = "0.3"
+robots_txt = "0.7.0"
+feed-rs = "0.2.2"
 
 # TODO make this optional for selfhosting
 tantivy = "0.12.0"
